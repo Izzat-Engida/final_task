@@ -39,6 +39,10 @@ End-to-End Testing with Cypress
         Toggling bookmarks and persisting bookmark state after reload.
 
         Access restrictions for unauthenticated users.
+        <img width="1712" height="706" alt="image" src="https://github.com/user-attachments/assets/2a51c4ca-b9a4-4853-8ec8-0ebdd4673a11" />
+
+      <img width="1817" height="858" alt="image" src="https://github.com/user-attachments/assets/d8dc9578-f9ca-4eb3-84ff-ca46975f45d8" />
+
 
     Run Cypress tests by:
 
