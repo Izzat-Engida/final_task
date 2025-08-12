@@ -10,6 +10,9 @@
 - The bookmark button reflects the current bookmark state instantly.
 - Bookmarking is **restricted to logged-in users**; non-authenticated users cannot bookmark jobs.
 - Includes error handling to alert users if bookmark operations fail.
+<img width="1795" height="819" alt="Screenshot 2025-08-12 104721" src="https://github.com/user-attachments/assets/5ed2f417-6be8-4482-aa5f-698f8e740961" />
+<img width="1817" height="826" alt="Screenshot 2025-08-12 104751" src="https://github.com/user-attachments/assets/1b7129ea-6158-4351-802b-ea74fbcebff3" />
+<img width="1625" height="776" alt="Screenshot 2025-08-12 104812" src="https://github.com/user-attachments/assets/648cd92d-6992-4877-bb81-2cdf81debded" />
 
 ---
 
@@ -21,6 +24,8 @@
   - Rendering the bookmark toggle only for authenticated users.
   - Bookmark toggle button click updates the bookmark state correctly.
   - Mocking NextAuth session to simulate authentication state.
+<img width="1128" height="647" alt="Screenshot 2025-08-12 104638" src="https://github.com/user-attachments/assets/482dc81d-60fd-4aa4-b29b-1e7f46024552" />
+
 - Run tests with:
 
   ```bash
@@ -39,9 +44,10 @@ End-to-End Testing with Cypress
         Toggling bookmarks and persisting bookmark state after reload.
 
         Access restrictions for unauthenticated users.
-        <img width="1712" height="706" alt="image" src="https://github.com/user-attachments/assets/2a51c4ca-b9a4-4853-8ec8-0ebdd4673a11" />
+        
+  <img width="1713" height="706" alt="Screenshot 2025-08-12 110910" src="https://github.com/user-attachments/assets/ca7b1d4b-c116-4bac-bc50-af87d7c1a055" />
+  <img width="1817" height="859" alt="Screenshot 2025-08-12 110803" src="https://github.com/user-attachments/assets/cd3ec609-24cd-413e-bda3-888a71f706dc" />
 
-      <img width="1817" height="858" alt="image" src="https://github.com/user-attachments/assets/d8dc9578-f9ca-4eb3-84ff-ca46975f45d8" />
 
 
     Run Cypress tests by:
